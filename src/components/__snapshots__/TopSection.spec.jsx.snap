@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopSection should render as expected 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM cxLqHU"
+  >
+    <div
+      class="sc-gtsrHT lkAkzf"
+    >
+      <div
+        class="sc-dlnjwi hhIhYm"
+      />
+      <div
+        class="sc-dlnjwi hhIhYm"
+      />
+      <div
+        class="sc-dlnjwi hhIhYm"
+      />
+      <div
+        class="sc-dlnjwi hhIhYm"
+      />
+    </div>
+  </div>
+</div>
+`;

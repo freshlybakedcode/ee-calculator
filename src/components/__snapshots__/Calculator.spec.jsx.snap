@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator should render as expected 1`] = `
+<div>
+  <div
+    class="sc-jrsJWt bGtHQU"
+  >
+    <div
+      class="sc-bdnxRM cxLqHU"
+    >
+      <div
+        class="sc-gtsrHT lkAkzf"
+      >
+        <div
+          class="sc-dlnjwi hhIhYm"
+        />
+        <div
+          class="sc-dlnjwi hhIhYm"
+        />
+        <div
+          class="sc-dlnjwi hhIhYm"
+        />
+        <div
+          class="sc-dlnjwi hhIhYm"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-hKFxyN hFgbwT"
+    >
+      <div
+        class="sc-eCApnc bzHlTF"
+      >
+        <img
+          alt="[=]"
+          class="sc-jSFjdj iURHSZ"
+          src="logo.svg"
+        />
+      </div>
+      <span
+        class="sc-gKAaRy jrThlc"
+        data-testid="calculator-screen"
+      >
+        0
+      </span>
+    </div>
+    <div
+      class="sc-iCoGMd bvKOAP"
+    >
+      <button
+        class="sc-fujyAs gVNkNN"
+        data-operator="clear"
+      >
+        C
+      </button>
+      <button
+        class="sc-fujyAs gVNkNN"
+        data-operator="clearEntry"
+      >
+        CE
+      </button>
+      <div
+        class="sc-pNWdM ghGQzl"
+      />
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        7
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        8
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        9
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+        data-operator="divide"
+      >
+        ÷
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        4
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        5
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        6
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+        data-operator="multiply"
+      >
+        ×
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        1
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        2
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        3
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+        data-operator="subtract"
+      >
+        -
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+      >
+        0
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+        data-operator="decimal"
+      >
+        .
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+        data-operator="equals"
+      >
+        =
+      </button>
+      <button
+        class="sc-fujyAs ySqhB"
+        data-operator="add"
+      >
+        +
+      </button>
+    </div>
+  </div>
+</div>
+`;

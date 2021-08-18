@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Keypad should render as expected 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM fKtVxz"
+  >
+    <button
+      class="sc-gtsrHT elpfVt"
+      data-operator="clear"
+    >
+      C
+    </button>
+    <button
+      class="sc-gtsrHT elpfVt"
+      data-operator="clearEntry"
+    >
+      CE
+    </button>
+    <div
+      class="sc-dlnjwi eWUZYv"
+    />
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      7
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      8
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      9
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+      data-operator="divide"
+    >
+      ÷
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      4
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      5
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      6
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+      data-operator="multiply"
+    >
+      ×
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      1
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      2
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      3
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+      data-operator="subtract"
+    >
+      -
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+    >
+      0
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+      data-operator="decimal"
+    >
+      .
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+      data-operator="equals"
+    >
+      =
+    </button>
+    <button
+      class="sc-gtsrHT htxWcZ"
+      data-operator="add"
+    >
+      +
+    </button>
+  </div>
+</div>
+`;

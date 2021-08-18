@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalculatorScreen should render as expected and output the received props 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM iuwJzS"
+  >
+    <div
+      class="sc-gtsrHT lgUMTJ"
+    >
+      <img
+        alt="[=]"
+        class="sc-dlnjwi jTFNGQ"
+        src="logo.svg"
+      />
+    </div>
+    <span
+      class="sc-hKFxyN gLFFat"
+      data-testid="calculator-screen"
+    >
+      100
+    </span>
+  </div>
+</div>
+`;

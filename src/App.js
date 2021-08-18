@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import { Calculator } from './components/Calculator';
+import styled from 'styled-components';
+
+const CalculatorWrapper = styled.div`
+  background: linear-gradient(to right, #1795d4, #2e9fd8);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <CalculatorWrapper>
+      <Calculator />
+    </CalculatorWrapper>
   );
 }
 
