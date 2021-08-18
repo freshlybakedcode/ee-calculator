@@ -33,7 +33,7 @@ This could definitely have been completed with a vanilla-JS approach but I opted
 
 I started with a quick sketch on paper because for quick iteration I think it's more efficient to have _something_ laid out to work from rather than just going straight into code and thinking about it while typing:
 
-![IMG_4516](https://user-images.githubusercontent.com/7483359/129933097-7f0e3334-1ad0-4dd9-aa19-2422b8fcb149.JPG)
+![IMG_4516](https://user-images.githubusercontent.com/7483359/129933097-7f0e3334-1ad0-4dd9-aa19-2422b8fcb149.JPG | width=500)
 
 Once I'd written those three components and set up state handling etc. it threw up a number of decisions which I had to make pretty quickly given the limited time available.  These included:
 - How to identify the pressed key
