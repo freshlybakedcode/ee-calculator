@@ -7,7 +7,7 @@ Please submit either a zip file, or a turn to a GitHub repo containing your solu
 
 ## Useage
 
-In the project directory, you can run:
+In the project directory, after running `yarn i` to install the dependencies, you can run:
 
 ### `yarn start`
 
